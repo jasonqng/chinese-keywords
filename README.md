@@ -3,7 +3,7 @@ chinese-keywords
 
 Contianed is a set of sensitive Chinese keywords (that is, keywords related to the Chinese Communist party, pornography, dissident material, violence/terrorism, censorship, etc). These keywords may be helpful to researchers who are searching for sensitive content in Chinese or testing for network interference.
 
-As of Aug 4, there are 8,087 sensitive keywords collected from 8 different lists (see below).
+As of Aug 4, there are 8,087 sensitive keywords collected from 8 different lists (see below for detailed info on the lists). To get a sense of what data is included in these CSV files, you can view a Google Doc spreadsheet of these 8,087 keywords sorted by the number of lists they appear on: https://docs.google.com/spreadsheets/d/19eS47Dg086vR1jh9oo51pXstYVT2wft13JGCrnAeU7A/edit?usp=sharing
 
 The CSV files contain machine translations (from Google) and human translations/notes for most of the keywords. Many also have theme and category variables included as well thanks to various sources which have previously tagged their keyword lists. Currently, there are three different versions:
 * __all.csv__: all the keywords, all available data/variables, plus 3,833 non-sensitive keywords which can be used as possible controls for searching. These non-sensitive keywords were taken from [article titles of the top 1000 most viewed articles on Wikipedia China in April 2013](http://stats.grok.se/zh/top) (995 after a few Wikipedia meta-pages were removed) and  [titles of articles that generated more than a total of 10 combined views on August 1, 0:00-1:00 and 12:00-13:00](http://dumps.wikimedia.org/other/pagecounts-raw/2013/2013-08/).
