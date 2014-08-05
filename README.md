@@ -1,7 +1,7 @@
 chinese-keywords
 ================
 
-Contianed is a set of sensitive Chinese keywords (that is, keywords related to the Chinese Communist party, pornography, dissident material, violence/terrorism, censorship, etc). These keywords may be helpful to researchers who are searching for sensitive content in Chinese or testing for network interference.
+Contained is a set of sensitive Chinese keywords (that is, keywords related to the Chinese Communist party, pornography, dissident material, violence/terrorism, censorship, etc). These keywords may be helpful to researchers who are searching for sensitive content in Chinese or testing for network interference.
 
 As of Aug 4, there are 8,087 sensitive keywords collected from 8 different lists (see below for detailed info on the lists). To get a sense of what data is included in these CSV files, you can view a Google Doc spreadsheet of these 8,087 keywords sorted by the number of lists they appear on: https://docs.google.com/spreadsheets/d/19eS47Dg086vR1jh9oo51pXstYVT2wft13JGCrnAeU7A/edit?usp=sharing
 
