@@ -13,7 +13,7 @@ Once downloaded, you can also sort by keyword length as well as how many of the 
 
 The thirteen lists this collection contains are:
 
-Creator | Tested on/found from | # of keywords | Year | Method + source
+Creator/source | Tested on/found from | # of keywords | Year | Method + source
 ------------ | ------------- |---------|------------|------------
 The Citizen Lab | Sina UC | 1,818 | 2013| [reverse engineered](http://firstmonday.org/ojs/index.php/fm/article/view/4628/3727) from the client; more analysis [here](https://citizenlab.org/2013/07/using-the-china-chats-surveillancecensorship-keyword-list-analyzing-blocked-terms-search-result-numbers-and-overlaps-of-censored-terms-between-services/); [download link](https://github.com/citizenlab/chat-censorship/tree/master/TOM-Skype--Sina-UC)
 The Citizen Lab | Tom-Skype | 2,574 | 2013 | [reverse engineered](http://firstmonday.org/ojs/index.php/fm/article/view/4628/3727) from the client; more analysis [here](https://citizenlab.org/2013/07/using-the-china-chats-surveillancecensorship-keyword-list-analyzing-blocked-terms-search-result-numbers-and-overlaps-of-censored-terms-between-services/); [download link](https://github.com/citizenlab/chat-censorship/tree/master/TOM-Skype--Sina-UC)
@@ -24,4 +24,8 @@ China Digital Times | Sina Weibo | 2,448 | ongoing | [crowdsourced testing of su
 GreatFire.org | Wikipedia | 488 | 2013 | testing to see if Wikipedia pages are available in China; [more info](https://en.greatfire.org/blog/2013/jun/wikipedia-drops-ball-china-not-too-late-make-amends); [download link](https://en.greatfire.org/search/wikipedia-pages)
 Google/ATGFW.org | Google/Great Firewall | 456 | 2012 | ATGFW.org and GreatFire.org [reverse engineered the keywords Google was using](https://en.greatfire.org/blog/2012/jun/all-blocked-keywords-according-google) to warn users of censorship while using their service in China; [download link](http://www.atgfw.org/2012/06/googlegfw.html)
 Jeff Knockel | Sina Show | 910 | 2014 | [extracted list from Sina Show app](http://cs.unm.edu/~jeffk/sinashow/); [download link](http://cs.unm.edu/~jeffk/sinashow/SinaShow.plain)
+Unknown | 163.com | 376 | 2008 | [archived by Nart Villeneuve](http://www.nartv.org/2008/11/25/keyword-lists/); circulated on 163.com, a Chinese portal website [download link](http://www.nartv.org/projects/keywords/badwords.txt)
+Omnitalk BBS users? | Tencent QQ | 863 | 2004 | [archived by Nart Villeneuve](http://www.nartv.org/2008/11/25/keyword-lists/); extracted from Tencent QQ app, [more info and analysis from CDT](http://chinadigitaltimes.net/2004/08/the-words-you-never-see-in-chinese-cyberspace/) [download link](http://www.nartv.org/projects/keywords/qqdll.txt)
+Jed Crandall et al | Great Firewall | 669 | 2008 | [archived by Nart Villeneuve](http://www.nartv.org/2008/11/25/keyword-lists/); "HTTP keyword filtering by Internet routers"; [website](http://www.conceptdoppler.org/) | [paper](https://www.cs.unm.edu/~crandall/concept_doppler_ccs07.pdf); [download link](http://www.nartv.org/projects/keywords/condoppler.txt)
+Unknown | a "blog provider" | 844 | 2005 | [archived by Nart Villeneuve](http://www.nartv.org/2008/11/25/keyword-lists/); according to Villeneuve: "This is a keyword list from a blog provider in China." [download link](http://www.nartv.org/projects/keywords/keyword.txt)
 This project was started at [The Citizen Lab's 2014 Connaught Summer Institute workshop](http://citizenlab.org/summerinstitute/2014.html). 
